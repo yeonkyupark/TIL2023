@@ -18,7 +18,7 @@ data %>%
   geom_hline(data = or, aes(yintercept = ll), col = 2, lty = 2)
 ```
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 데이터 병합 in r
 
