@@ -8,3 +8,4 @@
     * [test import subpages](01/04/test-import-subpages.md)
     * [04일](01/04/04.md)
   * [05일](01/05.md)
+  * [06일](01/06.md)
