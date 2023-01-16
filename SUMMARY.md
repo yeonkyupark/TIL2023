@@ -1,8 +1,7 @@
 # Table of contents
 
-* [02월](README.md)
-  * [01일](02/01.md)
-* [01월](01/README.md)
+* [01월](README.md)
+  * [여기까지, RPub을 통해 TIL 기록](01/rpub-til.md)
   * [16일](01/16.md)
   * [15일](01/15.md)
   * [14일](01/14.md)
